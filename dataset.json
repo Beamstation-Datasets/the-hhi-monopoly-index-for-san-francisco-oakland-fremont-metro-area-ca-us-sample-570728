@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
+  "config_name": "The HHI Monopoly Index for San Francisco-Oakland-Fremont Metro Area, CA, US",
+  "export_job_id": "d91b68ee-3fad-4726-a39d-d0e2aaf28a5b",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 570728,
+  "location_name": "San Francisco-Oakland-Fremont, CA",
+  "location_type": "metro",
+  "repo_name": "the-hhi-monopoly-index-for-san-francisco-oakland-fremont-metro-area-ca-us-sample-570728",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/570728/beamstation_570728_restaurants-us-sanfranciscooaklandfremontca_SAMPLE_DIST.csv",
+  "sample_pct": 9.68,
+  "sample_records": 15,
+  "sample_sha256": "e8cd81600c5c9c2c31f78c15d04e3f307c0a46454706a5ca2cfbdda1532465ee",
+  "sample_size_bytes": 74436,
+  "total_records": 155,
+  "updated_at": "2026-04-08T00:27:49.918123+00:00"
+}
