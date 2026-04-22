@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for San Francisco-Oakland-Fremont Metro Area, CA, US
 
-> Free BeamStation sample export with 13 rows and masked direct-contact fields.
+> Free BeamStation sample export with 7 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `570728` |
 | Location | San Francisco-Oakland-Fremont, CA |
 | Category | Restaurants |
-| Full dataset size | 136 records |
-| Free sample size | 13 records (9.56%) |
-| Last export | 2026-04-15T06:11:51.278006+00:00 |
+| Full dataset size | 75 records |
+| Free sample size | 7 records (9.33%) |
+| Last export | 2026-04-22T12:07:08.711482+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-san-francisco-oakland-fremont-metro-area-ca-us-sample-570728/releases/download/sample-latest/beamstation_570728_restaurants-us-sanfranciscooaklandfremontca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
