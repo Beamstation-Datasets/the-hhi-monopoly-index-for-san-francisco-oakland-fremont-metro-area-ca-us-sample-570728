@@ -1,12 +1,12 @@
 {
-  "export_job_id": "76b9ba04-f0ca-44e2-a9d4-a78f23a3028b",
+  "export_job_id": "453ddcf5-16d0-4bad-b785-bff58649d83b",
   "id_short": 570728,
-  "published_at": "2026-04-18T19:23:39Z",
+  "published_at": "2026-04-22T19:55:49Z",
   "repo_name": "the-hhi-monopoly-index-for-san-francisco-oakland-fremont-metro-area-ca-us-sample-570728",
   "sample_asset_name": "beamstation_570728_restaurants-us-sanfranciscooaklandfremontca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/570728/beamstation_570728_restaurants-us-sanfranciscooaklandfremontca_SAMPLE_DIST.csv",
-  "sample_records": 13,
-  "sample_sha256": "1d0e0daa6598bd9677d7e7cf45966fba9c5712dddb3e3843d2838ddfd1d12c03",
-  "sample_size_bytes": 68994,
-  "total_records": 136
+  "sample_records": 7,
+  "sample_sha256": "876b62a9959842f997716394a14895e2c789038710d677d3ac1bd0ed221f29eb",
+  "sample_size_bytes": 43851,
+  "total_records": 75
 }
